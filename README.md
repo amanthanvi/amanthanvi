@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanthanvi
 - 👀 I’m interested in cybersecurity research and application.
-- 🌱 I’m currently learning CS + ACES @ University of Maryland, College Park.
+- 🌱 I’m currently studying CS + ACES @ University of Maryland, College Park.
 - 💞️ I’m looking to collaborate on computer science research and other interesting projects
 - 📫 How to reach me:
      aman_thanvi@outlook.com
