@@ -3,9 +3,9 @@
 - 🌱 I’m currently studying CS + ACES @ University of Maryland, College Park.
 - 💞️ I’m looking to collaborate on computer science research and other interesting projects
 - 📫 How to reach me:
-     aman_thanvi@outlook.com
-     https://www.linkedin.com/in/amanthanvi/
-     https://www.amanthanvi.com
+     - aman_thanvi@outlook.com
+     - https://www.linkedin.com/in/amanthanvi/
+     - https://www.amanthanvi.com
      
 
 <!---
