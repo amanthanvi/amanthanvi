@@ -1,5 +1,5 @@
 # Hi there, I'm Aman Thanvi :wave:
-## Thanks for stopping by ![visitors](https://visitor-badge.glitch.me/badge?page_id=amanthanvi.amanthanvi)
+## Thanks for stopping by; ![](https://visitor-badge.glitch.me/badge?page_id=amanthanvi.amanthanvi)
 
 - 👀 I’m interested in cybersecurity research and application.
 - 🌱 I’m currently studying CS + ACES @ University of Maryland, College Park.
