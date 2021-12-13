@@ -1,12 +1,15 @@
 # Hi there, I'm Aman Thanvi :wave:
 
-- 👀 I’m interested in cybersecurity research and application.
-- 🌱 I’m currently studying CS + ACES @ University of Maryland, College Park.
-- 💞️ I’m looking to collaborate on computer science research and other interesting projects
+**What I'm Up To:**
+- 👀 I’m interested in cybersecurity research and application;
+- 🌱 I’m currently studying [CS](https://www.cs.umd.edu/) + [ACES](https://aces.umd.edu/) @ [University of Maryland, College Park](https://umd.edu);
+- 👨🏻‍💻 I’m looking to collaborate on computer science research and other interesting projects;
+- 📝 I post about my projects and everything else on [my personal website](https://amanthanvi.com);
 - 📫 How to reach me:
-     - aman_thanvi@outlook.com
-     - https://www.linkedin.com/in/amanthanvi/
-     - https://www.amanthanvi.com
+     - aman_thanvi@outlook.com;
+     - [LinkedIn](https://www.linkedin.com/in/amanthanvi/);
+- 📝 [Resume - Coming Soon...]().
+
 
 📈 **My GitHub Stats:**
 
