@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @amanthanvi
+# Hi there, I'm Aman Thanvi :wave:
 - 👀 I’m interested in cybersecurity research and application.
 - 🌱 I’m currently studying CS + ACES @ University of Maryland, College Park.
 - 💞️ I’m looking to collaborate on computer science research and other interesting projects
