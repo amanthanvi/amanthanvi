@@ -6,8 +6,8 @@
 - 👨🏻‍💻 I’m looking to collaborate on computer science research and other interesting projects;
 - 📝 I post about my projects and everything else on [my personal website](https://amanthanvi.com);
 - 📫 How to reach me:
-     - aman_thanvi@outlook.com;
-     - [LinkedIn](https://www.linkedin.com/in/amanthanvi/);
+     - aman_thanvi@outlook.com
+     - [LinkedIn](https://www.linkedin.com/in/amanthanvi/)
 - 📝 [Resume - Coming Soon...]().
 
 
