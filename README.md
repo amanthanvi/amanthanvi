@@ -8,7 +8,7 @@
 - 📫 How to reach me:
      - aman_thanvi@outlook.com
      - [LinkedIn](https://www.linkedin.com/in/amanthanvi/)
-- 📝 [Resume - Coming Soon...](https://files.amanthanvi.com/ThanviAman_Resume20220215_p.pdf)
+- 📝 [Resume as of 2/15/2022](https://files.amanthanvi.com/ThanviAman_Resume20220215_p.pdf)
 
 
 📈 **My GitHub Stats:**
