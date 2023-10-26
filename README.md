@@ -9,7 +9,7 @@
      - aman_thanvi@outlook.com
      - contact@amanthanvi.com
      - [LinkedIn](https://www.linkedin.com/in/amanthanvi/)
-- 📝 [Resume as of 01/05/2023](https://files.amanthanvi.com/ThanviAman_Resume20230105_p.pdf)
+- 📝 [Resume as of 10/18/2023](https://files.amanthanvi.com/ThanviAman_Resume20231018_complete.pdf)
 
 
 📈 **My GitHub Stats:**
